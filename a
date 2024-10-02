@@ -1,0 +1,3 @@
+O(1) complexity
+
+This sort function will take an unsorted array, go through every reality and fetch data from the reality where the array is already sorted.
